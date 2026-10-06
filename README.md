@@ -1,47 +1,70 @@
-# Hi, I'm Jana 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/234c2792-0893-44c7-96c0-7fd30604915d" width="100%" alt="Galaxy Banner" />
+</p>
 
-I'm a third-year Management Information Systems student focused on software development and full-stack web development.
+<h1 align="center">Hi 👋, I'm Jana Sawwan</h1>
 
-I'm building hands-on projects to strengthen my skills in C#, .NET, databases, backend development, and modern web applications.
+<h3 align="center">
+  Management Information Systems Student | C# & .NET | Full-Stack Development
 
-## 💻 What I'm Working On
+<p align="center">
+  Building hands-on projects and growing my skills in backend development,
+  databases, and modern web applications.
+</p>
 
-I'm currently building projects with C# and the .NET ecosystem while developing a deeper understanding of backend development, databases, web applications, and software architecture.
+## 🔗 Connect With Me
 
-## 🛠️ Technologies
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jana%20Sawwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jana-sawwan-250314438)
 
-- C# / .NET
-- ASP.NET Core MVC
-- Entity Framework Core
-- SQL Server
-- Razor
-- HTML / CSS
-- Bootstrap
-- Git & GitHub
+## 👩‍💻 Languages
 
-## 🚀 Recent Project
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### University Management System
+## 🚀 Frameworks & Technologies
 
-A full-stack web application for managing students and university departments.
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-Built with **ASP.NET Core MVC, Entity Framework Core, SQL Server, Razor, Bootstrap, and CSS**.
+## 🗄️ Database & ORM
 
-Key features include:
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+## 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+## 🚀 Featured Project
+
+### 🎓 University Management System
+
+A full-stack web application for managing students, departments, and academic records.
+
+**Built with:** ASP.NET Core MVC • Entity Framework Core • SQL Server • Razor • Bootstrap • CSS
+
+### ✨ Key Features
 
 - Student and department CRUD operations
-- Student search and filtering
+- Search students by ID
+- Filter students by department and status
 - Student status management
-- Department relationships
+- Student–department relationships
 - Server-side validation
 - Dashboard statistics
 - Responsive user interface
 
-➡️ [View the University Management System](https://github.com/Jana206/University-Management-System)
+<p align="left">
+  <a href="https://github.com/Jana206/University-Management-System">
+    <img src="https://img.shields.io/badge/View_Project_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ## 🌱 Currently Learning
-
-I'm continuing to strengthen my understanding of:
 
 - C# and .NET
 - ASP.NET Core MVC
@@ -52,6 +75,18 @@ I'm continuing to strengthen my understanding of:
 
 ## 📌 Project Progression
 
-My repositories document my progression from foundational C# applications to database-backed full-stack web development.
+I'm documenting my progress through hands-on projects as I move from foundational C# development toward full-stack web applications.
 
-**C# Console Application → ASP.NET Core MVC → SQL Server & Entity Framework Core → Full-Stack Web Applications**
+### 1️⃣ Student Management System
+**C# Console Application**
+
+My first student management project, focused on strengthening core C# programming concepts and application logic.
+
+### 2️⃣ University Management System
+**Full-Stack ASP.NET Core MVC Application**
+
+Expanded those concepts into a database-backed web application using ASP.NET Core MVC, Entity Framework Core, SQL Server, Razor, Bootstrap, and Git.
+
+### 🔄 My Progress
+
+**C# Fundamentals → Console Applications → ASP.NET Core MVC → Entity Framework Core → SQL Server → Full-Stack Web Development**
